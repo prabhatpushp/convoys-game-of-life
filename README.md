@@ -20,7 +20,7 @@ To get started with the Convoys Game of Life, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/convoys-game-of-life
    cd convoys-game-of-life
    ```
 
